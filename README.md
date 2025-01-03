@@ -22,7 +22,9 @@ I have Some Knowledge is the following programming languages
  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 
- 
+## 📫 How to reach me 
+
+Don't
  
 
  
