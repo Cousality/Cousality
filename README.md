@@ -10,7 +10,7 @@ Hi, I’m @Cousality
 
 ## 🛠️ Technologies & Skills
 
-I have Some Knowledge is the following programming languages
+I have Knowledge is the following programming languages
 
  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
