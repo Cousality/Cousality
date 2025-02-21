@@ -1,32 +1,21 @@
-# 🌟 Welcome to My GitHub! 🌟
-
-## 💻 About Me
-
-Hi, I’m @Cousality
-- 👀 I’m interested in Programming 
-- 🌱 I’m currently learning Java for my University
-- 💞️ I’m looking to collaborate on ...
-- ⚡ Fun fact: I don't do fun
-
-## 🛠️ Technologies & Skills
-
-I have Knowledge is the following programming languages
-
- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
- ![Scratch](https://img.shields.io/badge/Scratch-FFAB19?style=flat&logo=scratch&logoColor=white)
- ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+# 💫 About Me:
+Hi, I’m @Cousality<br><br>    👀 I’m interested in Programming<br>    🌱 I’m currently learning Java for my University<br>    💞️ I’m looking to collaborate on ...<br>    ⚡ Fun fact: I don't do fun<br>
 
 
-## 📫 How to reach me 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/CJBail#9930) 
 
-Don't
- 
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Cousality&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Cousality&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cousality&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
- 
+---
+[![](https://visitcount.itsvg.in/api?id=Cousality&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
  
 
